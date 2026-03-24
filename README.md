@@ -1,4 +1,4 @@
-# Retail Asset Management Platform
+# Retail Asset Management Platform Russian language
 ## Платформа управления торговыми активами
 
 ---
